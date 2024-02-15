@@ -13,7 +13,7 @@
 - Frameworks/Technologies: React, Node.js, Selenium, Laravel, Django
 - Tools & Platforms: Git, Jira, Gitbucket, AWS
 
-## Project Intrests
+## 💻 Project Intrests
 I enjoy working on various projects that allow me to employ my technical skills including.
 - Web Development
 - Web Scraping (Data)
