@@ -13,5 +13,12 @@
 - Frameworks/Technologies: React, Node.js, Selenium, Laravel, Django
 - Tools & Platforms: Git, Jira, Gitbucket, AWS
 
+## Project Intrests
+I enjoy working on various projects that allow me to employ my technical skills including.
+- Web Development
+- Web Scraping (Data)
+- Data Automation and Cleaning
+- Software Development (Full-Stack)
+
 ## 📫 How to Reach Me
 - Email: devin.mason@spartans.ut.edu
