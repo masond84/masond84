@@ -1,7 +1,7 @@
 # Hello, I'm Devin 👋
 
 ## 👨‍💻 About Me
-- 🎓 I'm currently studying Computer Science at The University of Tampa with experience as a Data Analyst Intern at Hyde Park Capital.
+- 🎓 I'm currently studying Computer Science at The University of Tampa.
 - 🔭 I seek life long learning with a passion for Full-Stack Development, Machine Learning, and Algorithm Development.
 - 🌱 I’m currently learning Theory of Computation, and Discrete Mathmatics within academia.
 - 👯 I'm looking to collaborate with individuals and businesses on a variety of projects.
